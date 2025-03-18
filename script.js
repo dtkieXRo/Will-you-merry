@@ -1,6 +1,6 @@
 (async function checkForUpdates() {
     const currentVersion = "beta 0.1";
-    const versionUrl = "https://raw.githubusercontent.com/ivysone/Will-you-be-my-Valentine-/main/version.json"; 
+    const versionUrl = "https://github.com/dtkieXRo/Will-you-merry/blob/main/version.json"; 
 
     try {
         const response = await fetch(versionUrl);
