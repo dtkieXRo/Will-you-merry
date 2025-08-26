@@ -59,11 +59,11 @@ const messages = [
     "Có phải đang buồn honggg😮‍💨🥲?",
     "Đừng mà🥹🥹...",
     "Suy nghĩ kĩ lạiiii ikkk!",
-    "Chị mà chọn vậy, tui khóc cho chị xem😭😭...",
+    "Bà mà chọn vậy, tui khóc cho bà xem😭😭...",
     "Buồn🥹...",
     "Gất gất buồn un🥹...",
-    "Hoi đc ròi, em không ép nữa🥲😮‍💨...",
-    "Đùa hoi, Có nhaaaa chị 🩷! ❤️"
+    "Hoi đc ròi, tui không ép nữa🥲😮‍💨...",
+    "Đùa hoi, Có nhaaaa 🩷! ❤️"
 ];
 
 let messageIndex = 0;
