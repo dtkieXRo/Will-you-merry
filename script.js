@@ -59,7 +59,7 @@ const messages = [
     "Có phải đang buồn honggg😮‍💨🥲?",
     "Đừng mà🥹🥹...",
     "Suy nghĩ kĩ lạiiii ikkk!",
-    "Bà mà chọn vậy, tui khóc cho bà xem😭😭...",
+    "Bạn mà chọn vậy, tui khóc cho bạn xem😭😭...",
     "Buồn🥹...",
     "Gất gất buồn un🥹...",
     "Hoi đc ròi, tui không ép nữa🥲😮‍💨...",
